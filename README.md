@@ -1,4 +1,4 @@
-# Event+ API Project
+# Event+ API
 
 ## Overview
 
